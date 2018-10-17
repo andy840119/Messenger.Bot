@@ -2,7 +2,7 @@
 
 namespace Messenger.Bot.Webhook
 {
-    internal class GenericContainer
+    public class GenericContainer
     {
         [JsonProperty("sender")]
         public Sender Sender { get; set; }

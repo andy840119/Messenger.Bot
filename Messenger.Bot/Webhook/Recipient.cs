@@ -2,7 +2,7 @@
 
 namespace Messenger.Bot.Webhook
 {
-    internal struct Recipient
+    public struct Recipient
     {
         [JsonProperty("id")]
         public string Id { get; set; }

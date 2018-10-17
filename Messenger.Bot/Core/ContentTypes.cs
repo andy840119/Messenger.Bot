@@ -1,6 +1,6 @@
 ﻿namespace Messenger.Bot
 {
-    internal static class ContentTypes
+    public static class ContentTypes
     {
         public static string TextHtml => "text/html";
 

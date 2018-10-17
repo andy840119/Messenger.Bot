@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Messenger.Bot.Webhook
 {
-    internal struct Entry
+    public struct Entry
     {
         [JsonProperty("id")]
         public string Id { get; set; }
