@@ -4,6 +4,8 @@ Messenger.Bot is a .NET implementation of Facebook Messenger Platform which is a
 
 [![NuGet](https://img.shields.io/nuget/v/Messenger.Bot.svg)](https://www.nuget.org/packages/Messenger.Bot)
 [![NuGet](https://img.shields.io/nuget/dt/Messenger.Bot.svg)](https://www.nuget.org/packages/Messenger.Bot)
+[![CodeFactor](https://www.codefactor.io/repository/github/4egod/messenger.bot/badge)](https://www.codefactor.io/repository/github/4egod/messenger.bot)
+[![Build status](https://ci.appveyor.com/api/projects/status/4adr21n2g1j00k6q?svg=true)](https://ci.appveyor.com/project/andy840119/messenger-bot-764r7)
 
 ### How to use:
 
